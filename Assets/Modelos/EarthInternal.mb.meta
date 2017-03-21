@@ -1,0 +1,2866 @@
+fileFormatVersion: 2
+guid: de1afb1adadba6d43a6f3bc6c7962e50
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Char_A_1
+    100002: Char_a_1
+    100004: Char_A_2
+    100006: Char_a_2
+    100008: Char_a_3
+    100010: Char_a_4
+    100012: Char_a_5
+    100014: Char_C_1
+    100016: Char_c_1
+    100018: Char_c_2
+    100020: Char_E_1
+    100022: Char_e_1
+    100024: Char_E_2
+    100026: Char_e_2
+    100028: Char_E_3
+    100030: Char_e_3
+    100032: Char_e_4
+    100034: Char_e_5
+    100036: Char_e_6
+    100038: Char_e_7
+    100040: Char_e_8
+    100042: Char_f_1
+    100044: Char_I_1
+    100046: Char_i_1
+    100048: Char_I_2
+    100050: Char_i_2
+    100052: Char_I_3
+    100054: Char_i_3
+    100056: Char_I_4
+    100058: Char_k_1
+    100060: Char_k_2
+    100062: Char_k_3
+    100064: Char_k_4
+    100066: Char_k_5
+    100068: Char_k_6
+    100070: Char_k_7
+    100072: Char_k_8
+    100074: Char_L_1
+    100076: Char_l_1
+    100078: Char_l_2
+    100080: Char_M_1
+    100082: Char_m_1
+    100084: Char_M_2
+    100086: Char_m_2
+    100088: Char_m_3
+    100090: Char_m_4
+    100092: Char_m_5
+    100094: Char_m_6
+    100096: Char_m_7
+    100098: Char_m_8
+    100100: Char_N_1
+    100102: Char_n_1
+    100104: Char_N_2
+    100106: Char_n_2
+    100108: Char_n_3
+    100110: Char_n_4
+    100112: Char_n_5
+    100114: Char_n_6
+    100116: Char_o_1
+    100118: Char_o_2
+    100120: Char_o_3
+    100122: Char_o_4
+    100124: Char_o_5
+    100126: Char_o_6
+    100128: Char_o_7
+    100130: Char_o_8
+    100132: Char_o_9
+    100134: Char_p_1
+    100136: Char_R_1
+    100138: Char_r_1
+    100140: Char_r_10
+    100142: Char_R_2
+    100144: Char_r_2
+    100146: Char_R_3
+    100148: Char_r_3
+    100150: Char_R_4
+    100152: Char_r_4
+    100154: Char_r_5
+    100156: Char_r_6
+    100158: Char_r_7
+    100160: Char_r_8
+    100162: Char_r_9
+    100164: Char_S_1
+    100166: Char_T_1
+    100168: Char_t_1
+    100170: Char_T_2
+    100172: Char_t_2
+    100174: Char_T_3
+    100176: Char_t_3
+    100178: Char_t_4
+    100180: Char_t_5
+    100182: Char_u_1
+    100184: Char_u_2
+    100186: Char_u_3
+    100188: Char_x_1
+    100190: Char_x_10
+    100192: Char_x_11
+    100194: Char_x_12
+    100196: Char_x_13
+    100198: Char_x_14
+    100200: Char_x_15
+    100202: Char_x_16
+    100204: Char_x_17
+    100206: Char_x_18
+    100208: Char_x_19
+    100210: Char_x_2
+    100212: Char_x_20
+    100214: Char_x_21
+    100216: Char_x_22
+    100218: Char_x_23
+    100220: Char_x_24
+    100222: Char_x_25
+    100224: Char_x_26
+    100226: Char_x_27
+    100228: Char_x_28
+    100230: Char_x_3
+    100232: Char_x_4
+    100234: Char_x_5
+    100236: Char_x_6
+    100238: Char_x_7
+    100240: Char_x_8
+    100242: Char_x_9
+    100244: Char_z_1
+    100246: //RootNode
+    100248: group
+    100250: group1
+    100252: pasted__Char_k_8
+    100254: pasted__Char_m_8
+    100256: pasted__Char_r_10
+    100258: pasted__Char_x_24
+    100260: pasted__Char_x_25
+    100262: pasted__Char_x_26
+    100264: pasted__Char_x_27
+    100266: pasted__Char_x_28
+    100268: pasted__Text_rxxxxxxxxkm_1
+    100270: pasted__Trim_Char_k_8_1
+    100272: pasted__Trim_Char_m_8_1
+    100274: pasted__Trim_Char_r_10_1
+    100276: pasted__Trim_Char_x_24_1
+    100278: pasted__Trim_Char_x_25_1
+    100280: pasted__Trim_Char_x_26_1
+    100282: pasted__Trim_Char_x_27_1
+    100284: pasted__Trim_Char_x_28_1
+    100286: pasted__Trim_Text_rxxxxxxxxkm_1_1
+    100288: pCube1
+    100290: polySurface100
+    100292: polySurface101
+    100294: polySurface102
+    100296: polySurface103
+    100298: polySurface104
+    100300: polySurface105
+    100302: polySurface106
+    100304: polySurface107
+    100306: polySurface108
+    100308: polySurface109
+    100310: polySurface110
+    100312: polySurface111
+    100314: polySurface112
+    100316: polySurface113
+    100318: polySurface114
+    100320: polySurface115
+    100322: polySurface116
+    100324: polySurface117
+    100326: polySurface118
+    100328: polySurface119
+    100330: polySurface120
+    100332: polySurface121
+    100334: polySurface122
+    100336: polySurface123
+    100338: polySurface124
+    100340: polySurface125
+    100342: polySurface126
+    100344: polySurface127
+    100346: polySurface128
+    100348: polySurface129
+    100350: polySurface130
+    100352: polySurface131
+    100354: polySurface132
+    100356: polySurface133
+    100358: polySurface134
+    100360: polySurface135
+    100362: polySurface136
+    100364: polySurface137
+    100366: polySurface138
+    100368: polySurface139
+    100370: polySurface140
+    100372: polySurface141
+    100374: polySurface142
+    100376: polySurface143
+    100378: polySurface144
+    100380: polySurface145
+    100382: polySurface147
+    100384: polySurface148
+    100386: polySurface149
+    100388: polySurface15
+    100390: polySurface150
+    100392: polySurface151
+    100394: polySurface152
+    100396: polySurface153
+    100398: polySurface16
+    100400: polySurface17
+    100402: polySurface18
+    100404: polySurface19
+    100406: polySurface20
+    100408: polySurface21
+    100410: polySurface22
+    100412: polySurface23
+    100414: polySurface24
+    100416: polySurface25
+    100418: polySurface26
+    100420: polySurface27
+    100422: polySurface28
+    100424: polySurface29
+    100426: polySurface30
+    100428: polySurface31
+    100430: polySurface32
+    100432: polySurface33
+    100434: polySurface34
+    100436: polySurface35
+    100438: polySurface36
+    100440: polySurface37
+    100442: polySurface38
+    100444: polySurface39
+    100446: polySurface40
+    100448: polySurface41
+    100450: polySurface42
+    100452: polySurface43
+    100454: polySurface44
+    100456: polySurface45
+    100458: polySurface46
+    100460: polySurface47
+    100462: polySurface48
+    100464: polySurface49
+    100466: polySurface50
+    100468: polySurface51
+    100470: polySurface52
+    100472: polySurface53
+    100474: polySurface54
+    100476: polySurface55
+    100478: polySurface56
+    100480: polySurface57
+    100482: polySurface58
+    100484: polySurface59
+    100486: polySurface60
+    100488: polySurface61
+    100490: polySurface62
+    100492: polySurface63
+    100494: polySurface64
+    100496: polySurface65
+    100498: polySurface66
+    100500: polySurface67
+    100502: polySurface68
+    100504: polySurface69
+    100506: polySurface70
+    100508: polySurface71
+    100510: polySurface72
+    100512: polySurface73
+    100514: polySurface74
+    100516: polySurface75
+    100518: polySurface76
+    100520: polySurface77
+    100522: polySurface78
+    100524: polySurface79
+    100526: polySurface80
+    100528: polySurface81
+    100530: polySurface82
+    100532: polySurface83
+    100534: polySurface84
+    100536: polySurface85
+    100538: polySurface86
+    100540: polySurface87
+    100542: polySurface88
+    100544: polySurface89
+    100546: polySurface90
+    100548: polySurface91
+    100550: polySurface92
+    100552: polySurface93
+    100554: polySurface94
+    100556: polySurface95
+    100558: polySurface96
+    100560: polySurface97
+    100562: polySurface98
+    100564: polySurface99
+    100566: Text_Corteza_1
+    100568: Text_LaxTierra_1
+    100570: Text_MantoxInferior_1
+    100572: Text_MantoxSuperior_1
+    100574: Text_NucleoxExterno_1
+    100576: Text_NucleoxInterno_1
+    100578: Text_rxxxxxxxxkm_1
+    100580: Text_TIERRA_1
+    100582: Text_TIERRA_2
+    100584: Text_xxkm_1
+    100586: Text_xxxkm_1
+    100588: Text_xxxxkm_1
+    100590: Text_xxxxkm_2
+    100592: Text_xxxxxkm_1
+    100594: Text_xxxxxkm_2
+    100596: Text_xxxxxkm_3
+    100598: transform1
+    100600: transform10
+    100602: transform100
+    100604: transform101
+    100606: transform102
+    100608: transform103
+    100610: transform104
+    100612: transform105
+    100614: transform106
+    100616: transform107
+    100618: transform108
+    100620: transform109
+    100622: transform11
+    100624: transform110
+    100626: transform111
+    100628: transform112
+    100630: transform113
+    100632: transform114
+    100634: transform115
+    100636: transform116
+    100638: transform117
+    100640: transform118
+    100642: transform119
+    100644: transform12
+    100646: transform120
+    100648: transform121
+    100650: transform122
+    100652: transform123
+    100654: transform124
+    100656: transform125
+    100658: transform126
+    100660: transform127
+    100662: transform128
+    100664: transform129
+    100666: transform13
+    100668: transform130
+    100670: transform131
+    100672: transform14
+    100674: transform15
+    100676: transform16
+    100678: transform17
+    100680: transform18
+    100682: transform19
+    100684: transform2
+    100686: transform20
+    100688: transform21
+    100690: transform22
+    100692: transform23
+    100694: transform24
+    100696: transform25
+    100698: transform26
+    100700: transform27
+    100702: transform28
+    100704: transform29
+    100706: transform3
+    100708: transform30
+    100710: transform31
+    100712: transform32
+    100714: transform33
+    100716: transform34
+    100718: transform35
+    100720: transform36
+    100722: transform37
+    100724: transform38
+    100726: transform39
+    100728: transform4
+    100730: transform40
+    100732: transform41
+    100734: transform42
+    100736: transform43
+    100738: transform44
+    100740: transform45
+    100742: transform46
+    100744: transform47
+    100746: transform48
+    100748: transform49
+    100750: transform5
+    100752: transform50
+    100754: transform51
+    100756: transform52
+    100758: transform53
+    100760: transform54
+    100762: transform55
+    100764: transform56
+    100766: transform57
+    100768: transform58
+    100770: transform59
+    100772: transform6
+    100774: transform60
+    100776: transform61
+    100778: transform62
+    100780: transform63
+    100782: transform64
+    100784: transform65
+    100786: transform66
+    100788: transform67
+    100790: transform68
+    100792: transform69
+    100794: transform7
+    100796: transform70
+    100798: transform71
+    100800: transform72
+    100802: transform73
+    100804: transform74
+    100806: transform75
+    100808: transform76
+    100810: transform77
+    100812: transform78
+    100814: transform79
+    100816: transform8
+    100818: transform80
+    100820: transform81
+    100822: transform82
+    100824: transform83
+    100826: transform84
+    100828: transform85
+    100830: transform86
+    100832: transform87
+    100834: transform88
+    100836: transform89
+    100838: transform9
+    100840: transform90
+    100842: transform91
+    100844: transform92
+    100846: transform93
+    100848: transform94
+    100850: transform95
+    100852: transform96
+    100854: transform97
+    100856: transform98
+    100858: transform99
+    100860: Trim_Char_A_2_1
+    100862: Trim_Char_E_3_1
+    100864: Trim_Char_I_4_1
+    100866: Trim_Char_k_8_1
+    100868: Trim_Char_m_8_1
+    100870: Trim_Char_r_10_1
+    100872: Trim_Char_R_3_1
+    100874: Trim_Char_R_4_1
+    100876: Trim_Char_T_3_1
+    100878: Trim_Char_x_24_1
+    100880: Trim_Char_x_25_1
+    100882: Trim_Char_x_26_1
+    100884: Trim_Char_x_27_1
+    100886: Trim_Char_x_28_1
+    100888: Trim_Text_LaxTierra_1_1
+    100890: Trim_Text_rxxxxxxxxkm_1_1
+    100892: Trim_Text_TIERRA_1_1
+    100894: Trim_Text_TIERRA_2_1
+    100896: Trim_Text_xxkm_1_1
+    400000: Char_A_1
+    400002: Char_a_1
+    400004: Char_A_2
+    400006: Char_a_2
+    400008: Char_a_3
+    400010: Char_a_4
+    400012: Char_a_5
+    400014: Char_C_1
+    400016: Char_c_1
+    400018: Char_c_2
+    400020: Char_E_1
+    400022: Char_e_1
+    400024: Char_E_2
+    400026: Char_e_2
+    400028: Char_E_3
+    400030: Char_e_3
+    400032: Char_e_4
+    400034: Char_e_5
+    400036: Char_e_6
+    400038: Char_e_7
+    400040: Char_e_8
+    400042: Char_f_1
+    400044: Char_I_1
+    400046: Char_i_1
+    400048: Char_I_2
+    400050: Char_i_2
+    400052: Char_I_3
+    400054: Char_i_3
+    400056: Char_I_4
+    400058: Char_k_1
+    400060: Char_k_2
+    400062: Char_k_3
+    400064: Char_k_4
+    400066: Char_k_5
+    400068: Char_k_6
+    400070: Char_k_7
+    400072: Char_k_8
+    400074: Char_L_1
+    400076: Char_l_1
+    400078: Char_l_2
+    400080: Char_M_1
+    400082: Char_m_1
+    400084: Char_M_2
+    400086: Char_m_2
+    400088: Char_m_3
+    400090: Char_m_4
+    400092: Char_m_5
+    400094: Char_m_6
+    400096: Char_m_7
+    400098: Char_m_8
+    400100: Char_N_1
+    400102: Char_n_1
+    400104: Char_N_2
+    400106: Char_n_2
+    400108: Char_n_3
+    400110: Char_n_4
+    400112: Char_n_5
+    400114: Char_n_6
+    400116: Char_o_1
+    400118: Char_o_2
+    400120: Char_o_3
+    400122: Char_o_4
+    400124: Char_o_5
+    400126: Char_o_6
+    400128: Char_o_7
+    400130: Char_o_8
+    400132: Char_o_9
+    400134: Char_p_1
+    400136: Char_R_1
+    400138: Char_r_1
+    400140: Char_r_10
+    400142: Char_R_2
+    400144: Char_r_2
+    400146: Char_R_3
+    400148: Char_r_3
+    400150: Char_R_4
+    400152: Char_r_4
+    400154: Char_r_5
+    400156: Char_r_6
+    400158: Char_r_7
+    400160: Char_r_8
+    400162: Char_r_9
+    400164: Char_S_1
+    400166: Char_T_1
+    400168: Char_t_1
+    400170: Char_T_2
+    400172: Char_t_2
+    400174: Char_T_3
+    400176: Char_t_3
+    400178: Char_t_4
+    400180: Char_t_5
+    400182: Char_u_1
+    400184: Char_u_2
+    400186: Char_u_3
+    400188: Char_x_1
+    400190: Char_x_10
+    400192: Char_x_11
+    400194: Char_x_12
+    400196: Char_x_13
+    400198: Char_x_14
+    400200: Char_x_15
+    400202: Char_x_16
+    400204: Char_x_17
+    400206: Char_x_18
+    400208: Char_x_19
+    400210: Char_x_2
+    400212: Char_x_20
+    400214: Char_x_21
+    400216: Char_x_22
+    400218: Char_x_23
+    400220: Char_x_24
+    400222: Char_x_25
+    400224: Char_x_26
+    400226: Char_x_27
+    400228: Char_x_28
+    400230: Char_x_3
+    400232: Char_x_4
+    400234: Char_x_5
+    400236: Char_x_6
+    400238: Char_x_7
+    400240: Char_x_8
+    400242: Char_x_9
+    400244: Char_z_1
+    400246: //RootNode
+    400248: group
+    400250: group1
+    400252: pasted__Char_k_8
+    400254: pasted__Char_m_8
+    400256: pasted__Char_r_10
+    400258: pasted__Char_x_24
+    400260: pasted__Char_x_25
+    400262: pasted__Char_x_26
+    400264: pasted__Char_x_27
+    400266: pasted__Char_x_28
+    400268: pasted__Text_rxxxxxxxxkm_1
+    400270: pasted__Trim_Char_k_8_1
+    400272: pasted__Trim_Char_m_8_1
+    400274: pasted__Trim_Char_r_10_1
+    400276: pasted__Trim_Char_x_24_1
+    400278: pasted__Trim_Char_x_25_1
+    400280: pasted__Trim_Char_x_26_1
+    400282: pasted__Trim_Char_x_27_1
+    400284: pasted__Trim_Char_x_28_1
+    400286: pasted__Trim_Text_rxxxxxxxxkm_1_1
+    400288: pCube1
+    400290: polySurface100
+    400292: polySurface101
+    400294: polySurface102
+    400296: polySurface103
+    400298: polySurface104
+    400300: polySurface105
+    400302: polySurface106
+    400304: polySurface107
+    400306: polySurface108
+    400308: polySurface109
+    400310: polySurface110
+    400312: polySurface111
+    400314: polySurface112
+    400316: polySurface113
+    400318: polySurface114
+    400320: polySurface115
+    400322: polySurface116
+    400324: polySurface117
+    400326: polySurface118
+    400328: polySurface119
+    400330: polySurface120
+    400332: polySurface121
+    400334: polySurface122
+    400336: polySurface123
+    400338: polySurface124
+    400340: polySurface125
+    400342: polySurface126
+    400344: polySurface127
+    400346: polySurface128
+    400348: polySurface129
+    400350: polySurface130
+    400352: polySurface131
+    400354: polySurface132
+    400356: polySurface133
+    400358: polySurface134
+    400360: polySurface135
+    400362: polySurface136
+    400364: polySurface137
+    400366: polySurface138
+    400368: polySurface139
+    400370: polySurface140
+    400372: polySurface141
+    400374: polySurface142
+    400376: polySurface143
+    400378: polySurface144
+    400380: polySurface145
+    400382: polySurface147
+    400384: polySurface148
+    400386: polySurface149
+    400388: polySurface15
+    400390: polySurface150
+    400392: polySurface151
+    400394: polySurface152
+    400396: polySurface153
+    400398: polySurface16
+    400400: polySurface17
+    400402: polySurface18
+    400404: polySurface19
+    400406: polySurface20
+    400408: polySurface21
+    400410: polySurface22
+    400412: polySurface23
+    400414: polySurface24
+    400416: polySurface25
+    400418: polySurface26
+    400420: polySurface27
+    400422: polySurface28
+    400424: polySurface29
+    400426: polySurface30
+    400428: polySurface31
+    400430: polySurface32
+    400432: polySurface33
+    400434: polySurface34
+    400436: polySurface35
+    400438: polySurface36
+    400440: polySurface37
+    400442: polySurface38
+    400444: polySurface39
+    400446: polySurface40
+    400448: polySurface41
+    400450: polySurface42
+    400452: polySurface43
+    400454: polySurface44
+    400456: polySurface45
+    400458: polySurface46
+    400460: polySurface47
+    400462: polySurface48
+    400464: polySurface49
+    400466: polySurface50
+    400468: polySurface51
+    400470: polySurface52
+    400472: polySurface53
+    400474: polySurface54
+    400476: polySurface55
+    400478: polySurface56
+    400480: polySurface57
+    400482: polySurface58
+    400484: polySurface59
+    400486: polySurface60
+    400488: polySurface61
+    400490: polySurface62
+    400492: polySurface63
+    400494: polySurface64
+    400496: polySurface65
+    400498: polySurface66
+    400500: polySurface67
+    400502: polySurface68
+    400504: polySurface69
+    400506: polySurface70
+    400508: polySurface71
+    400510: polySurface72
+    400512: polySurface73
+    400514: polySurface74
+    400516: polySurface75
+    400518: polySurface76
+    400520: polySurface77
+    400522: polySurface78
+    400524: polySurface79
+    400526: polySurface80
+    400528: polySurface81
+    400530: polySurface82
+    400532: polySurface83
+    400534: polySurface84
+    400536: polySurface85
+    400538: polySurface86
+    400540: polySurface87
+    400542: polySurface88
+    400544: polySurface89
+    400546: polySurface90
+    400548: polySurface91
+    400550: polySurface92
+    400552: polySurface93
+    400554: polySurface94
+    400556: polySurface95
+    400558: polySurface96
+    400560: polySurface97
+    400562: polySurface98
+    400564: polySurface99
+    400566: Text_Corteza_1
+    400568: Text_LaxTierra_1
+    400570: Text_MantoxInferior_1
+    400572: Text_MantoxSuperior_1
+    400574: Text_NucleoxExterno_1
+    400576: Text_NucleoxInterno_1
+    400578: Text_rxxxxxxxxkm_1
+    400580: Text_TIERRA_1
+    400582: Text_TIERRA_2
+    400584: Text_xxkm_1
+    400586: Text_xxxkm_1
+    400588: Text_xxxxkm_1
+    400590: Text_xxxxkm_2
+    400592: Text_xxxxxkm_1
+    400594: Text_xxxxxkm_2
+    400596: Text_xxxxxkm_3
+    400598: transform1
+    400600: transform10
+    400602: transform100
+    400604: transform101
+    400606: transform102
+    400608: transform103
+    400610: transform104
+    400612: transform105
+    400614: transform106
+    400616: transform107
+    400618: transform108
+    400620: transform109
+    400622: transform11
+    400624: transform110
+    400626: transform111
+    400628: transform112
+    400630: transform113
+    400632: transform114
+    400634: transform115
+    400636: transform116
+    400638: transform117
+    400640: transform118
+    400642: transform119
+    400644: transform12
+    400646: transform120
+    400648: transform121
+    400650: transform122
+    400652: transform123
+    400654: transform124
+    400656: transform125
+    400658: transform126
+    400660: transform127
+    400662: transform128
+    400664: transform129
+    400666: transform13
+    400668: transform130
+    400670: transform131
+    400672: transform14
+    400674: transform15
+    400676: transform16
+    400678: transform17
+    400680: transform18
+    400682: transform19
+    400684: transform2
+    400686: transform20
+    400688: transform21
+    400690: transform22
+    400692: transform23
+    400694: transform24
+    400696: transform25
+    400698: transform26
+    400700: transform27
+    400702: transform28
+    400704: transform29
+    400706: transform3
+    400708: transform30
+    400710: transform31
+    400712: transform32
+    400714: transform33
+    400716: transform34
+    400718: transform35
+    400720: transform36
+    400722: transform37
+    400724: transform38
+    400726: transform39
+    400728: transform4
+    400730: transform40
+    400732: transform41
+    400734: transform42
+    400736: transform43
+    400738: transform44
+    400740: transform45
+    400742: transform46
+    400744: transform47
+    400746: transform48
+    400748: transform49
+    400750: transform5
+    400752: transform50
+    400754: transform51
+    400756: transform52
+    400758: transform53
+    400760: transform54
+    400762: transform55
+    400764: transform56
+    400766: transform57
+    400768: transform58
+    400770: transform59
+    400772: transform6
+    400774: transform60
+    400776: transform61
+    400778: transform62
+    400780: transform63
+    400782: transform64
+    400784: transform65
+    400786: transform66
+    400788: transform67
+    400790: transform68
+    400792: transform69
+    400794: transform7
+    400796: transform70
+    400798: transform71
+    400800: transform72
+    400802: transform73
+    400804: transform74
+    400806: transform75
+    400808: transform76
+    400810: transform77
+    400812: transform78
+    400814: transform79
+    400816: transform8
+    400818: transform80
+    400820: transform81
+    400822: transform82
+    400824: transform83
+    400826: transform84
+    400828: transform85
+    400830: transform86
+    400832: transform87
+    400834: transform88
+    400836: transform89
+    400838: transform9
+    400840: transform90
+    400842: transform91
+    400844: transform92
+    400846: transform93
+    400848: transform94
+    400850: transform95
+    400852: transform96
+    400854: transform97
+    400856: transform98
+    400858: transform99
+    400860: Trim_Char_A_2_1
+    400862: Trim_Char_E_3_1
+    400864: Trim_Char_I_4_1
+    400866: Trim_Char_k_8_1
+    400868: Trim_Char_m_8_1
+    400870: Trim_Char_r_10_1
+    400872: Trim_Char_R_3_1
+    400874: Trim_Char_R_4_1
+    400876: Trim_Char_T_3_1
+    400878: Trim_Char_x_24_1
+    400880: Trim_Char_x_25_1
+    400882: Trim_Char_x_26_1
+    400884: Trim_Char_x_27_1
+    400886: Trim_Char_x_28_1
+    400888: Trim_Text_LaxTierra_1_1
+    400890: Trim_Text_rxxxxxxxxkm_1_1
+    400892: Trim_Text_TIERRA_1_1
+    400894: Trim_Text_TIERRA_2_1
+    400896: Trim_Text_xxkm_1_1
+    2300000: pCube1
+    2300002: polySurface141
+    2300004: polySurface142
+    2300006: polySurface143
+    2300008: polySurface144
+    2300010: polySurface145
+    2300012: polySurface147
+    2300014: polySurface148
+    2300016: polySurface149
+    2300018: polySurface150
+    2300020: polySurface151
+    2300022: polySurface152
+    2300024: polySurface153
+    2300026: polySurface26
+    2300028: polySurface38
+    2300030: polySurface39
+    2300032: polySurface53
+    2300034: polySurface61
+    2300036: polySurface62
+    3300000: pCube1
+    3300002: polySurface141
+    3300004: polySurface142
+    3300006: polySurface143
+    3300008: polySurface144
+    3300010: polySurface145
+    3300012: polySurface147
+    3300014: polySurface148
+    3300016: polySurface149
+    3300018: polySurface150
+    3300020: polySurface151
+    3300022: polySurface152
+    3300024: polySurface153
+    3300026: polySurface26
+    3300028: polySurface38
+    3300030: polySurface39
+    3300032: polySurface53
+    3300034: polySurface61
+    3300036: polySurface62
+    4300000: polySurface26
+    4300002: polySurface38
+    4300004: polySurface39
+    4300006: polySurface53
+    4300008: polySurface61
+    4300010: polySurface62
+    4300012: polySurface141
+    4300014: polySurface142
+    4300016: polySurface143
+    4300018: polySurface144
+    4300020: polySurface145
+    4300022: polySurface147
+    4300024: polySurface148
+    4300026: polySurface149
+    4300028: polySurface150
+    4300030: polySurface151
+    4300032: polySurface152
+    4300034: pCube1
+    4300036: polySurface153
+    7400000: AbrirTierra
+    7400002: CerrarTierra
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: AbrirTierra
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 161
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: group
+        weight: 1
+      - path: group1
+        weight: 1
+      - path: group1/pasted__Text_rxxxxxxxxkm_1
+        weight: 1
+      - path: group1/pasted__Text_rxxxxxxxxkm_1/pasted__Char_k_8
+        weight: 1
+      - path: group1/pasted__Text_rxxxxxxxxkm_1/pasted__Char_m_8
+        weight: 1
+      - path: group1/pasted__Text_rxxxxxxxxkm_1/pasted__Char_r_10
+        weight: 1
+      - path: group1/pasted__Text_rxxxxxxxxkm_1/pasted__Char_x_24
+        weight: 1
+      - path: group1/pasted__Text_rxxxxxxxxkm_1/pasted__Char_x_25
+        weight: 1
+      - path: group1/pasted__Text_rxxxxxxxxkm_1/pasted__Char_x_26
+        weight: 1
+      - path: group1/pasted__Text_rxxxxxxxxkm_1/pasted__Char_x_27
+        weight: 1
+      - path: group1/pasted__Text_rxxxxxxxxkm_1/pasted__Char_x_28
+        weight: 1
+      - path: group1/pasted__Trim_Text_rxxxxxxxxkm_1_1
+        weight: 1
+      - path: group1/pasted__Trim_Text_rxxxxxxxxkm_1_1/pasted__Trim_Char_k_8_1
+        weight: 1
+      - path: group1/pasted__Trim_Text_rxxxxxxxxkm_1_1/pasted__Trim_Char_k_8_1/transform117
+        weight: 1
+      - path: group1/pasted__Trim_Text_rxxxxxxxxkm_1_1/pasted__Trim_Char_m_8_1
+        weight: 1
+      - path: group1/pasted__Trim_Text_rxxxxxxxxkm_1_1/pasted__Trim_Char_m_8_1/transform116
+        weight: 1
+      - path: group1/pasted__Trim_Text_rxxxxxxxxkm_1_1/pasted__Trim_Char_r_10_1
+        weight: 1
+      - path: group1/pasted__Trim_Text_rxxxxxxxxkm_1_1/pasted__Trim_Char_r_10_1/transform123
+        weight: 1
+      - path: group1/pasted__Trim_Text_rxxxxxxxxkm_1_1/pasted__Trim_Char_x_24_1
+        weight: 1
+      - path: group1/pasted__Trim_Text_rxxxxxxxxkm_1_1/pasted__Trim_Char_x_24_1/transform122
+        weight: 1
+      - path: group1/pasted__Trim_Text_rxxxxxxxxkm_1_1/pasted__Trim_Char_x_25_1
+        weight: 1
+      - path: group1/pasted__Trim_Text_rxxxxxxxxkm_1_1/pasted__Trim_Char_x_25_1/transform121
+        weight: 1
+      - path: group1/pasted__Trim_Text_rxxxxxxxxkm_1_1/pasted__Trim_Char_x_26_1
+        weight: 1
+      - path: group1/pasted__Trim_Text_rxxxxxxxxkm_1_1/pasted__Trim_Char_x_26_1/transform120
+        weight: 1
+      - path: group1/pasted__Trim_Text_rxxxxxxxxkm_1_1/pasted__Trim_Char_x_27_1
+        weight: 1
+      - path: group1/pasted__Trim_Text_rxxxxxxxxkm_1_1/pasted__Trim_Char_x_27_1/transform119
+        weight: 1
+      - path: group1/pasted__Trim_Text_rxxxxxxxxkm_1_1/pasted__Trim_Char_x_28_1
+        weight: 1
+      - path: group1/pasted__Trim_Text_rxxxxxxxxkm_1_1/pasted__Trim_Char_x_28_1/transform118
+        weight: 1
+      - path: pCube1
+        weight: 1
+      - path: polySurface15
+        weight: 1
+      - path: polySurface15/polySurface26
+        weight: 1
+      - path: polySurface15/polySurface27
+        weight: 1
+      - path: polySurface15/polySurface27/transform82
+        weight: 1
+      - path: polySurface15/polySurface28
+        weight: 1
+      - path: polySurface15/polySurface28/transform81
+        weight: 1
+      - path: polySurface15/polySurface29
+        weight: 1
+      - path: polySurface15/polySurface29/transform80
+        weight: 1
+      - path: polySurface15/polySurface30
+        weight: 1
+      - path: polySurface15/polySurface30/transform79
+        weight: 1
+      - path: polySurface15/polySurface31
+        weight: 1
+      - path: polySurface15/polySurface31/transform78
+        weight: 1
+      - path: polySurface16
+        weight: 1
+      - path: polySurface16/polySurface32
+        weight: 1
+      - path: polySurface16/polySurface32/transform88
+        weight: 1
+      - path: polySurface16/polySurface33
+        weight: 1
+      - path: polySurface16/polySurface33/transform87
+        weight: 1
+      - path: polySurface16/polySurface34
+        weight: 1
+      - path: polySurface16/polySurface34/transform86
+        weight: 1
+      - path: polySurface16/polySurface35
+        weight: 1
+      - path: polySurface16/polySurface35/transform85
+        weight: 1
+      - path: polySurface16/polySurface36
+        weight: 1
+      - path: polySurface16/polySurface36/transform84
+        weight: 1
+      - path: polySurface16/polySurface37
+        weight: 1
+      - path: polySurface16/polySurface37/transform83
+        weight: 1
+      - path: polySurface16/polySurface38
+        weight: 1
+      - path: polySurface17
+        weight: 1
+      - path: polySurface17/polySurface39
+        weight: 1
+      - path: polySurface17/polySurface40
+        weight: 1
+      - path: polySurface17/polySurface40/transform94
+        weight: 1
+      - path: polySurface17/polySurface41
+        weight: 1
+      - path: polySurface17/polySurface41/transform93
+        weight: 1
+      - path: polySurface17/polySurface42
+        weight: 1
+      - path: polySurface17/polySurface42/transform92
+        weight: 1
+      - path: polySurface17/polySurface43
+        weight: 1
+      - path: polySurface17/polySurface43/transform91
+        weight: 1
+      - path: polySurface17/polySurface44
+        weight: 1
+      - path: polySurface17/polySurface44/transform90
+        weight: 1
+      - path: polySurface17/polySurface45
+        weight: 1
+      - path: polySurface17/polySurface45/transform89
+        weight: 1
+      - path: polySurface18
+        weight: 1
+      - path: polySurface18/polySurface46
+        weight: 1
+      - path: polySurface18/polySurface46/transform101
+        weight: 1
+      - path: polySurface18/polySurface47
+        weight: 1
+      - path: polySurface18/polySurface47/transform100
+        weight: 1
+      - path: polySurface18/polySurface48
+        weight: 1
+      - path: polySurface18/polySurface48/transform99
+        weight: 1
+      - path: polySurface18/polySurface49
+        weight: 1
+      - path: polySurface18/polySurface49/transform98
+        weight: 1
+      - path: polySurface18/polySurface50
+        weight: 1
+      - path: polySurface18/polySurface50/transform97
+        weight: 1
+      - path: polySurface18/polySurface51
+        weight: 1
+      - path: polySurface18/polySurface51/transform96
+        weight: 1
+      - path: polySurface18/polySurface52
+        weight: 1
+      - path: polySurface18/polySurface52/transform95
+        weight: 1
+      - path: polySurface18/polySurface53
+        weight: 1
+      - path: polySurface19
+        weight: 1
+      - path: polySurface19/polySurface54
+        weight: 1
+      - path: polySurface19/polySurface54/transform108
+        weight: 1
+      - path: polySurface19/polySurface55
+        weight: 1
+      - path: polySurface19/polySurface55/transform107
+        weight: 1
+      - path: polySurface19/polySurface56
+        weight: 1
+      - path: polySurface19/polySurface56/transform106
+        weight: 1
+      - path: polySurface19/polySurface57
+        weight: 1
+      - path: polySurface19/polySurface57/transform105
+        weight: 1
+      - path: polySurface19/polySurface58
+        weight: 1
+      - path: polySurface19/polySurface58/transform104
+        weight: 1
+      - path: polySurface19/polySurface59
+        weight: 1
+      - path: polySurface19/polySurface59/transform102
+        weight: 1
+      - path: polySurface19/polySurface60
+        weight: 1
+      - path: polySurface19/polySurface60/transform103
+        weight: 1
+      - path: polySurface19/polySurface61
+        weight: 1
+      - path: polySurface20
+        weight: 1
+      - path: polySurface20/polySurface62
+        weight: 1
+      - path: polySurface20/polySurface63
+        weight: 1
+      - path: polySurface20/polySurface63/transform115
+        weight: 1
+      - path: polySurface20/polySurface64
+        weight: 1
+      - path: polySurface20/polySurface64/transform114
+        weight: 1
+      - path: polySurface20/polySurface65
+        weight: 1
+      - path: polySurface20/polySurface65/transform113
+        weight: 1
+      - path: polySurface20/polySurface66
+        weight: 1
+      - path: polySurface20/polySurface66/transform112
+        weight: 1
+      - path: polySurface20/polySurface67
+        weight: 1
+      - path: polySurface20/polySurface67/transform111
+        weight: 1
+      - path: polySurface20/polySurface68
+        weight: 1
+      - path: polySurface20/polySurface68/transform110
+        weight: 1
+      - path: polySurface20/polySurface69
+        weight: 1
+      - path: polySurface20/polySurface69/transform109
+        weight: 1
+      - path: polySurface21
+        weight: 1
+      - path: polySurface21/polySurface116
+        weight: 1
+      - path: polySurface21/polySurface116/transform55
+        weight: 1
+      - path: polySurface21/polySurface117
+        weight: 1
+      - path: polySurface21/polySurface117/transform54
+        weight: 1
+      - path: polySurface21/polySurface118
+        weight: 1
+      - path: polySurface21/polySurface118/transform53
+        weight: 1
+      - path: polySurface21/polySurface119
+        weight: 1
+      - path: polySurface21/polySurface119/transform52
+        weight: 1
+      - path: polySurface21/polySurface120
+        weight: 1
+      - path: polySurface21/polySurface120/transform51
+        weight: 1
+      - path: polySurface21/polySurface121
+        weight: 1
+      - path: polySurface21/polySurface121/transform50
+        weight: 1
+      - path: polySurface21/polySurface122
+        weight: 1
+      - path: polySurface21/polySurface122/transform49
+        weight: 1
+      - path: polySurface21/polySurface123
+        weight: 1
+      - path: polySurface21/polySurface123/transform47
+        weight: 1
+      - path: polySurface21/polySurface124
+        weight: 1
+      - path: polySurface21/polySurface124/transform48
+        weight: 1
+      - path: polySurface22
+        weight: 1
+      - path: polySurface22/polySurface70
+        weight: 1
+      - path: polySurface22/polySurface70/transform31
+        weight: 1
+      - path: polySurface22/polySurface71
+        weight: 1
+      - path: polySurface22/polySurface71/transform30
+        weight: 1
+      - path: polySurface22/polySurface72
+        weight: 1
+      - path: polySurface22/polySurface72/transform29
+        weight: 1
+      - path: polySurface22/polySurface73
+        weight: 1
+      - path: polySurface22/polySurface73/transform28
+        weight: 1
+      - path: polySurface22/polySurface74
+        weight: 1
+      - path: polySurface22/polySurface74/transform27
+        weight: 1
+      - path: polySurface22/polySurface75
+        weight: 1
+      - path: polySurface22/polySurface75/transform26
+        weight: 1
+      - path: polySurface22/polySurface76
+        weight: 1
+      - path: polySurface22/polySurface76/transform25
+        weight: 1
+      - path: polySurface22/polySurface77
+        weight: 1
+      - path: polySurface22/polySurface77/transform24
+        weight: 1
+      - path: polySurface22/polySurface78
+        weight: 1
+      - path: polySurface22/polySurface78/transform23
+        weight: 1
+      - path: polySurface22/polySurface79
+        weight: 1
+      - path: polySurface22/polySurface79/transform22
+        weight: 1
+      - path: polySurface22/polySurface80
+        weight: 1
+      - path: polySurface22/polySurface80/transform21
+        weight: 1
+      - path: polySurface22/polySurface81
+        weight: 1
+      - path: polySurface22/polySurface81/transform20
+        weight: 1
+      - path: polySurface22/polySurface82
+        weight: 1
+      - path: polySurface22/polySurface82/transform19
+        weight: 1
+      - path: polySurface22/polySurface83
+        weight: 1
+      - path: polySurface22/polySurface83/transform18
+        weight: 1
+      - path: polySurface22/polySurface84
+        weight: 1
+      - path: polySurface22/polySurface84/transform17
+        weight: 1
+      - path: polySurface22/polySurface85
+        weight: 1
+      - path: polySurface22/polySurface85/transform16
+        weight: 1
+      - path: polySurface23
+        weight: 1
+      - path: polySurface23/polySurface125
+        weight: 1
+      - path: polySurface23/polySurface125/transform71
+        weight: 1
+      - path: polySurface23/polySurface126
+        weight: 1
+      - path: polySurface23/polySurface126/transform70
+        weight: 1
+      - path: polySurface23/polySurface127
+        weight: 1
+      - path: polySurface23/polySurface127/transform69
+        weight: 1
+      - path: polySurface23/polySurface128
+        weight: 1
+      - path: polySurface23/polySurface128/transform68
+        weight: 1
+      - path: polySurface23/polySurface129
+        weight: 1
+      - path: polySurface23/polySurface129/transform67
+        weight: 1
+      - path: polySurface23/polySurface130
+        weight: 1
+      - path: polySurface23/polySurface130/transform66
+        weight: 1
+      - path: polySurface23/polySurface131
+        weight: 1
+      - path: polySurface23/polySurface131/transform65
+        weight: 1
+      - path: polySurface23/polySurface132
+        weight: 1
+      - path: polySurface23/polySurface132/transform64
+        weight: 1
+      - path: polySurface23/polySurface133
+        weight: 1
+      - path: polySurface23/polySurface133/transform63
+        weight: 1
+      - path: polySurface23/polySurface134
+        weight: 1
+      - path: polySurface23/polySurface134/transform62
+        weight: 1
+      - path: polySurface23/polySurface135
+        weight: 1
+      - path: polySurface23/polySurface135/transform61
+        weight: 1
+      - path: polySurface23/polySurface136
+        weight: 1
+      - path: polySurface23/polySurface136/transform60
+        weight: 1
+      - path: polySurface23/polySurface137
+        weight: 1
+      - path: polySurface23/polySurface137/transform59
+        weight: 1
+      - path: polySurface23/polySurface138
+        weight: 1
+      - path: polySurface23/polySurface138/transform58
+        weight: 1
+      - path: polySurface23/polySurface139
+        weight: 1
+      - path: polySurface23/polySurface139/transform57
+        weight: 1
+      - path: polySurface23/polySurface140
+        weight: 1
+      - path: polySurface23/polySurface140/transform56
+        weight: 1
+      - path: polySurface24
+        weight: 1
+      - path: polySurface24/polySurface86
+        weight: 1
+      - path: polySurface24/polySurface86/transform15
+        weight: 1
+      - path: polySurface24/polySurface87
+        weight: 1
+      - path: polySurface24/polySurface87/transform14
+        weight: 1
+      - path: polySurface24/polySurface88
+        weight: 1
+      - path: polySurface24/polySurface88/transform13
+        weight: 1
+      - path: polySurface24/polySurface89
+        weight: 1
+      - path: polySurface24/polySurface89/transform12
+        weight: 1
+      - path: polySurface24/polySurface90
+        weight: 1
+      - path: polySurface24/polySurface90/transform11
+        weight: 1
+      - path: polySurface24/polySurface91
+        weight: 1
+      - path: polySurface24/polySurface91/transform10
+        weight: 1
+      - path: polySurface24/polySurface92
+        weight: 1
+      - path: polySurface24/polySurface92/transform9
+        weight: 1
+      - path: polySurface24/polySurface93
+        weight: 1
+      - path: polySurface24/polySurface93/transform8
+        weight: 1
+      - path: polySurface24/polySurface94
+        weight: 1
+      - path: polySurface24/polySurface94/transform7
+        weight: 1
+      - path: polySurface24/polySurface95
+        weight: 1
+      - path: polySurface24/polySurface95/transform6
+        weight: 1
+      - path: polySurface24/polySurface96
+        weight: 1
+      - path: polySurface24/polySurface96/transform5
+        weight: 1
+      - path: polySurface24/polySurface97
+        weight: 1
+      - path: polySurface24/polySurface97/transform4
+        weight: 1
+      - path: polySurface24/polySurface98
+        weight: 1
+      - path: polySurface24/polySurface98/transform3
+        weight: 1
+      - path: polySurface24/polySurface99
+        weight: 1
+      - path: polySurface24/polySurface99/transform2
+        weight: 1
+      - path: polySurface24/polySurface100
+        weight: 1
+      - path: polySurface24/polySurface100/transform1
+        weight: 1
+      - path: polySurface25
+        weight: 1
+      - path: polySurface25/polySurface101
+        weight: 1
+      - path: polySurface25/polySurface101/transform46
+        weight: 1
+      - path: polySurface25/polySurface102
+        weight: 1
+      - path: polySurface25/polySurface102/transform45
+        weight: 1
+      - path: polySurface25/polySurface103
+        weight: 1
+      - path: polySurface25/polySurface103/transform44
+        weight: 1
+      - path: polySurface25/polySurface104
+        weight: 1
+      - path: polySurface25/polySurface104/transform43
+        weight: 1
+      - path: polySurface25/polySurface105
+        weight: 1
+      - path: polySurface25/polySurface105/transform42
+        weight: 1
+      - path: polySurface25/polySurface106
+        weight: 1
+      - path: polySurface25/polySurface106/transform41
+        weight: 1
+      - path: polySurface25/polySurface107
+        weight: 1
+      - path: polySurface25/polySurface107/transform40
+        weight: 1
+      - path: polySurface25/polySurface108
+        weight: 1
+      - path: polySurface25/polySurface108/transform39
+        weight: 1
+      - path: polySurface25/polySurface109
+        weight: 1
+      - path: polySurface25/polySurface109/transform38
+        weight: 1
+      - path: polySurface25/polySurface110
+        weight: 1
+      - path: polySurface25/polySurface110/transform37
+        weight: 1
+      - path: polySurface25/polySurface111
+        weight: 1
+      - path: polySurface25/polySurface111/transform36
+        weight: 1
+      - path: polySurface25/polySurface112
+        weight: 1
+      - path: polySurface25/polySurface112/transform35
+        weight: 1
+      - path: polySurface25/polySurface113
+        weight: 1
+      - path: polySurface25/polySurface113/transform34
+        weight: 1
+      - path: polySurface25/polySurface114
+        weight: 1
+      - path: polySurface25/polySurface114/transform33
+        weight: 1
+      - path: polySurface25/polySurface115
+        weight: 1
+      - path: polySurface25/polySurface115/transform32
+        weight: 1
+      - path: polySurface141
+        weight: 1
+      - path: polySurface142
+        weight: 1
+      - path: polySurface143
+        weight: 1
+      - path: polySurface144
+        weight: 1
+      - path: polySurface145
+        weight: 1
+      - path: polySurface147
+        weight: 1
+      - path: polySurface148
+        weight: 1
+      - path: polySurface149
+        weight: 1
+      - path: polySurface150
+        weight: 1
+      - path: polySurface151
+        weight: 1
+      - path: polySurface152
+        weight: 1
+      - path: polySurface153
+        weight: 1
+      - path: Text_Corteza_1
+        weight: 1
+      - path: Text_Corteza_1/Char_a_1
+        weight: 1
+      - path: Text_Corteza_1/Char_C_1
+        weight: 1
+      - path: Text_Corteza_1/Char_e_1
+        weight: 1
+      - path: Text_Corteza_1/Char_o_1
+        weight: 1
+      - path: Text_Corteza_1/Char_r_1
+        weight: 1
+      - path: Text_Corteza_1/Char_t_1
+        weight: 1
+      - path: Text_Corteza_1/Char_z_1
+        weight: 1
+      - path: Text_LaxTierra_1
+        weight: 1
+      - path: Text_LaxTierra_1/Char_a_4
+        weight: 1
+      - path: Text_LaxTierra_1/Char_a_5
+        weight: 1
+      - path: Text_LaxTierra_1/Char_e_8
+        weight: 1
+      - path: Text_LaxTierra_1/Char_i_3
+        weight: 1
+      - path: Text_LaxTierra_1/Char_L_1
+        weight: 1
+      - path: Text_LaxTierra_1/Char_r_8
+        weight: 1
+      - path: Text_LaxTierra_1/Char_r_9
+        weight: 1
+      - path: Text_LaxTierra_1/Char_T_1
+        weight: 1
+      - path: Text_MantoxInferior_1
+        weight: 1
+      - path: Text_MantoxInferior_1/Char_a_3
+        weight: 1
+      - path: Text_MantoxInferior_1/Char_e_3
+        weight: 1
+      - path: Text_MantoxInferior_1/Char_f_1
+        weight: 1
+      - path: Text_MantoxInferior_1/Char_I_1
+        weight: 1
+      - path: Text_MantoxInferior_1/Char_i_2
+        weight: 1
+      - path: Text_MantoxInferior_1/Char_M_2
+        weight: 1
+      - path: Text_MantoxInferior_1/Char_n_2
+        weight: 1
+      - path: Text_MantoxInferior_1/Char_n_3
+        weight: 1
+      - path: Text_MantoxInferior_1/Char_o_4
+        weight: 1
+      - path: Text_MantoxInferior_1/Char_o_5
+        weight: 1
+      - path: Text_MantoxInferior_1/Char_r_4
+        weight: 1
+      - path: Text_MantoxInferior_1/Char_r_5
+        weight: 1
+      - path: Text_MantoxInferior_1/Char_t_3
+        weight: 1
+      - path: Text_MantoxSuperior_1
+        weight: 1
+      - path: Text_MantoxSuperior_1/Char_a_2
+        weight: 1
+      - path: Text_MantoxSuperior_1/Char_e_2
+        weight: 1
+      - path: Text_MantoxSuperior_1/Char_i_1
+        weight: 1
+      - path: Text_MantoxSuperior_1/Char_M_1
+        weight: 1
+      - path: Text_MantoxSuperior_1/Char_n_1
+        weight: 1
+      - path: Text_MantoxSuperior_1/Char_o_2
+        weight: 1
+      - path: Text_MantoxSuperior_1/Char_o_3
+        weight: 1
+      - path: Text_MantoxSuperior_1/Char_p_1
+        weight: 1
+      - path: Text_MantoxSuperior_1/Char_r_2
+        weight: 1
+      - path: Text_MantoxSuperior_1/Char_r_3
+        weight: 1
+      - path: Text_MantoxSuperior_1/Char_S_1
+        weight: 1
+      - path: Text_MantoxSuperior_1/Char_t_2
+        weight: 1
+      - path: Text_MantoxSuperior_1/Char_u_1
+        weight: 1
+      - path: Text_NucleoxExterno_1
+        weight: 1
+      - path: Text_NucleoxExterno_1/Char_c_1
+        weight: 1
+      - path: Text_NucleoxExterno_1/Char_E_1
+        weight: 1
+      - path: Text_NucleoxExterno_1/Char_e_4
+        weight: 1
+      - path: Text_NucleoxExterno_1/Char_e_5
+        weight: 1
+      - path: Text_NucleoxExterno_1/Char_l_1
+        weight: 1
+      - path: Text_NucleoxExterno_1/Char_N_1
+        weight: 1
+      - path: Text_NucleoxExterno_1/Char_n_4
+        weight: 1
+      - path: Text_NucleoxExterno_1/Char_o_6
+        weight: 1
+      - path: Text_NucleoxExterno_1/Char_o_7
+        weight: 1
+      - path: Text_NucleoxExterno_1/Char_r_6
+        weight: 1
+      - path: Text_NucleoxExterno_1/Char_t_4
+        weight: 1
+      - path: Text_NucleoxExterno_1/Char_u_2
+        weight: 1
+      - path: Text_NucleoxExterno_1/Char_x_1
+        weight: 1
+      - path: Text_NucleoxInterno_1
+        weight: 1
+      - path: Text_NucleoxInterno_1/Char_c_2
+        weight: 1
+      - path: Text_NucleoxInterno_1/Char_e_6
+        weight: 1
+      - path: Text_NucleoxInterno_1/Char_e_7
+        weight: 1
+      - path: Text_NucleoxInterno_1/Char_I_2
+        weight: 1
+      - path: Text_NucleoxInterno_1/Char_l_2
+        weight: 1
+      - path: Text_NucleoxInterno_1/Char_N_2
+        weight: 1
+      - path: Text_NucleoxInterno_1/Char_n_5
+        weight: 1
+      - path: Text_NucleoxInterno_1/Char_n_6
+        weight: 1
+      - path: Text_NucleoxInterno_1/Char_o_8
+        weight: 1
+      - path: Text_NucleoxInterno_1/Char_o_9
+        weight: 1
+      - path: Text_NucleoxInterno_1/Char_r_7
+        weight: 1
+      - path: Text_NucleoxInterno_1/Char_t_5
+        weight: 1
+      - path: Text_NucleoxInterno_1/Char_u_3
+        weight: 1
+      - path: Text_rxxxxxxxxkm_1
+        weight: 1
+      - path: Text_rxxxxxxxxkm_1/Char_k_8
+        weight: 1
+      - path: Text_rxxxxxxxxkm_1/Char_m_8
+        weight: 1
+      - path: Text_rxxxxxxxxkm_1/Char_r_10
+        weight: 1
+      - path: Text_rxxxxxxxxkm_1/Char_x_24
+        weight: 1
+      - path: Text_rxxxxxxxxkm_1/Char_x_25
+        weight: 1
+      - path: Text_rxxxxxxxxkm_1/Char_x_26
+        weight: 1
+      - path: Text_rxxxxxxxxkm_1/Char_x_27
+        weight: 1
+      - path: Text_rxxxxxxxxkm_1/Char_x_28
+        weight: 1
+      - path: Text_TIERRA_1
+        weight: 1
+      - path: Text_TIERRA_1/Char_A_1
+        weight: 1
+      - path: Text_TIERRA_1/Char_E_2
+        weight: 1
+      - path: Text_TIERRA_1/Char_I_3
+        weight: 1
+      - path: Text_TIERRA_1/Char_R_1
+        weight: 1
+      - path: Text_TIERRA_1/Char_R_2
+        weight: 1
+      - path: Text_TIERRA_1/Char_T_2
+        weight: 1
+      - path: Text_TIERRA_2
+        weight: 1
+      - path: Text_TIERRA_2/Char_A_2
+        weight: 1
+      - path: Text_TIERRA_2/Char_E_3
+        weight: 1
+      - path: Text_TIERRA_2/Char_I_4
+        weight: 1
+      - path: Text_TIERRA_2/Char_R_3
+        weight: 1
+      - path: Text_TIERRA_2/Char_R_4
+        weight: 1
+      - path: Text_TIERRA_2/Char_T_3
+        weight: 1
+      - path: Text_xxkm_1
+        weight: 1
+      - path: Text_xxkm_1/Char_k_1
+        weight: 1
+      - path: Text_xxkm_1/Char_m_1
+        weight: 1
+      - path: Text_xxkm_1/Char_x_2
+        weight: 1
+      - path: Text_xxkm_1/Char_x_3
+        weight: 1
+      - path: Text_xxxkm_1
+        weight: 1
+      - path: Text_xxxkm_1/Char_k_2
+        weight: 1
+      - path: Text_xxxkm_1/Char_m_2
+        weight: 1
+      - path: Text_xxxkm_1/Char_x_4
+        weight: 1
+      - path: Text_xxxkm_1/Char_x_5
+        weight: 1
+      - path: Text_xxxxkm_1
+        weight: 1
+      - path: Text_xxxxkm_1/Char_k_3
+        weight: 1
+      - path: Text_xxxxkm_1/Char_m_3
+        weight: 1
+      - path: Text_xxxxkm_1/Char_x_6
+        weight: 1
+      - path: Text_xxxxkm_1/Char_x_7
+        weight: 1
+      - path: Text_xxxxkm_1/Char_x_8
+        weight: 1
+      - path: Text_xxxxkm_2
+        weight: 1
+      - path: Text_xxxxkm_2/Char_k_4
+        weight: 1
+      - path: Text_xxxxkm_2/Char_m_4
+        weight: 1
+      - path: Text_xxxxkm_2/Char_x_9
+        weight: 1
+      - path: Text_xxxxkm_2/Char_x_10
+        weight: 1
+      - path: Text_xxxxkm_2/Char_x_11
+        weight: 1
+      - path: Text_xxxxxkm_1
+        weight: 1
+      - path: Text_xxxxxkm_1/Char_k_5
+        weight: 1
+      - path: Text_xxxxxkm_1/Char_m_5
+        weight: 1
+      - path: Text_xxxxxkm_1/Char_x_12
+        weight: 1
+      - path: Text_xxxxxkm_1/Char_x_13
+        weight: 1
+      - path: Text_xxxxxkm_1/Char_x_14
+        weight: 1
+      - path: Text_xxxxxkm_1/Char_x_15
+        weight: 1
+      - path: Text_xxxxxkm_2
+        weight: 1
+      - path: Text_xxxxxkm_2/Char_k_6
+        weight: 1
+      - path: Text_xxxxxkm_2/Char_m_6
+        weight: 1
+      - path: Text_xxxxxkm_2/Char_x_16
+        weight: 1
+      - path: Text_xxxxxkm_2/Char_x_17
+        weight: 1
+      - path: Text_xxxxxkm_2/Char_x_18
+        weight: 1
+      - path: Text_xxxxxkm_2/Char_x_19
+        weight: 1
+      - path: Text_xxxxxkm_3
+        weight: 1
+      - path: Text_xxxxxkm_3/Char_k_7
+        weight: 1
+      - path: Text_xxxxxkm_3/Char_m_7
+        weight: 1
+      - path: Text_xxxxxkm_3/Char_x_20
+        weight: 1
+      - path: Text_xxxxxkm_3/Char_x_21
+        weight: 1
+      - path: Text_xxxxxkm_3/Char_x_22
+        weight: 1
+      - path: Text_xxxxxkm_3/Char_x_23
+        weight: 1
+      - path: Trim_Text_LaxTierra_1_1
+        weight: 1
+      - path: Trim_Text_rxxxxxxxxkm_1_1
+        weight: 1
+      - path: Trim_Text_rxxxxxxxxkm_1_1/Trim_Char_k_8_1
+        weight: 1
+      - path: Trim_Text_rxxxxxxxxkm_1_1/Trim_Char_k_8_1/transform125
+        weight: 1
+      - path: Trim_Text_rxxxxxxxxkm_1_1/Trim_Char_m_8_1
+        weight: 1
+      - path: Trim_Text_rxxxxxxxxkm_1_1/Trim_Char_m_8_1/transform124
+        weight: 1
+      - path: Trim_Text_rxxxxxxxxkm_1_1/Trim_Char_r_10_1
+        weight: 1
+      - path: Trim_Text_rxxxxxxxxkm_1_1/Trim_Char_r_10_1/transform131
+        weight: 1
+      - path: Trim_Text_rxxxxxxxxkm_1_1/Trim_Char_x_24_1
+        weight: 1
+      - path: Trim_Text_rxxxxxxxxkm_1_1/Trim_Char_x_24_1/transform130
+        weight: 1
+      - path: Trim_Text_rxxxxxxxxkm_1_1/Trim_Char_x_25_1
+        weight: 1
+      - path: Trim_Text_rxxxxxxxxkm_1_1/Trim_Char_x_25_1/transform129
+        weight: 1
+      - path: Trim_Text_rxxxxxxxxkm_1_1/Trim_Char_x_26_1
+        weight: 1
+      - path: Trim_Text_rxxxxxxxxkm_1_1/Trim_Char_x_26_1/transform128
+        weight: 1
+      - path: Trim_Text_rxxxxxxxxkm_1_1/Trim_Char_x_27_1
+        weight: 1
+      - path: Trim_Text_rxxxxxxxxkm_1_1/Trim_Char_x_27_1/transform127
+        weight: 1
+      - path: Trim_Text_rxxxxxxxxkm_1_1/Trim_Char_x_28_1
+        weight: 1
+      - path: Trim_Text_rxxxxxxxxkm_1_1/Trim_Char_x_28_1/transform126
+        weight: 1
+      - path: Trim_Text_TIERRA_1_1
+        weight: 1
+      - path: Trim_Text_TIERRA_2_1
+        weight: 1
+      - path: Trim_Text_TIERRA_2_1/Trim_Char_A_2_1
+        weight: 1
+      - path: Trim_Text_TIERRA_2_1/Trim_Char_A_2_1/transform72
+        weight: 1
+      - path: Trim_Text_TIERRA_2_1/Trim_Char_E_3_1
+        weight: 1
+      - path: Trim_Text_TIERRA_2_1/Trim_Char_E_3_1/transform75
+        weight: 1
+      - path: Trim_Text_TIERRA_2_1/Trim_Char_I_4_1
+        weight: 1
+      - path: Trim_Text_TIERRA_2_1/Trim_Char_I_4_1/transform76
+        weight: 1
+      - path: Trim_Text_TIERRA_2_1/Trim_Char_R_3_1
+        weight: 1
+      - path: Trim_Text_TIERRA_2_1/Trim_Char_R_3_1/transform74
+        weight: 1
+      - path: Trim_Text_TIERRA_2_1/Trim_Char_R_4_1
+        weight: 1
+      - path: Trim_Text_TIERRA_2_1/Trim_Char_R_4_1/transform73
+        weight: 1
+      - path: Trim_Text_TIERRA_2_1/Trim_Char_T_3_1
+        weight: 1
+      - path: Trim_Text_TIERRA_2_1/Trim_Char_T_3_1/transform77
+        weight: 1
+      - path: Trim_Text_xxkm_1_1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: CerrarTierra
+      takeName: Take 001
+      firstFrame: 165
+      lastFrame: 260
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: group
+        weight: 1
+      - path: group1
+        weight: 1
+      - path: group1/pasted__Text_rxxxxxxxxkm_1
+        weight: 1
+      - path: group1/pasted__Text_rxxxxxxxxkm_1/pasted__Char_k_8
+        weight: 1
+      - path: group1/pasted__Text_rxxxxxxxxkm_1/pasted__Char_m_8
+        weight: 1
+      - path: group1/pasted__Text_rxxxxxxxxkm_1/pasted__Char_r_10
+        weight: 1
+      - path: group1/pasted__Text_rxxxxxxxxkm_1/pasted__Char_x_24
+        weight: 1
+      - path: group1/pasted__Text_rxxxxxxxxkm_1/pasted__Char_x_25
+        weight: 1
+      - path: group1/pasted__Text_rxxxxxxxxkm_1/pasted__Char_x_26
+        weight: 1
+      - path: group1/pasted__Text_rxxxxxxxxkm_1/pasted__Char_x_27
+        weight: 1
+      - path: group1/pasted__Text_rxxxxxxxxkm_1/pasted__Char_x_28
+        weight: 1
+      - path: group1/pasted__Trim_Text_rxxxxxxxxkm_1_1
+        weight: 1
+      - path: group1/pasted__Trim_Text_rxxxxxxxxkm_1_1/pasted__Trim_Char_k_8_1
+        weight: 1
+      - path: group1/pasted__Trim_Text_rxxxxxxxxkm_1_1/pasted__Trim_Char_k_8_1/transform117
+        weight: 1
+      - path: group1/pasted__Trim_Text_rxxxxxxxxkm_1_1/pasted__Trim_Char_m_8_1
+        weight: 1
+      - path: group1/pasted__Trim_Text_rxxxxxxxxkm_1_1/pasted__Trim_Char_m_8_1/transform116
+        weight: 1
+      - path: group1/pasted__Trim_Text_rxxxxxxxxkm_1_1/pasted__Trim_Char_r_10_1
+        weight: 1
+      - path: group1/pasted__Trim_Text_rxxxxxxxxkm_1_1/pasted__Trim_Char_r_10_1/transform123
+        weight: 1
+      - path: group1/pasted__Trim_Text_rxxxxxxxxkm_1_1/pasted__Trim_Char_x_24_1
+        weight: 1
+      - path: group1/pasted__Trim_Text_rxxxxxxxxkm_1_1/pasted__Trim_Char_x_24_1/transform122
+        weight: 1
+      - path: group1/pasted__Trim_Text_rxxxxxxxxkm_1_1/pasted__Trim_Char_x_25_1
+        weight: 1
+      - path: group1/pasted__Trim_Text_rxxxxxxxxkm_1_1/pasted__Trim_Char_x_25_1/transform121
+        weight: 1
+      - path: group1/pasted__Trim_Text_rxxxxxxxxkm_1_1/pasted__Trim_Char_x_26_1
+        weight: 1
+      - path: group1/pasted__Trim_Text_rxxxxxxxxkm_1_1/pasted__Trim_Char_x_26_1/transform120
+        weight: 1
+      - path: group1/pasted__Trim_Text_rxxxxxxxxkm_1_1/pasted__Trim_Char_x_27_1
+        weight: 1
+      - path: group1/pasted__Trim_Text_rxxxxxxxxkm_1_1/pasted__Trim_Char_x_27_1/transform119
+        weight: 1
+      - path: group1/pasted__Trim_Text_rxxxxxxxxkm_1_1/pasted__Trim_Char_x_28_1
+        weight: 1
+      - path: group1/pasted__Trim_Text_rxxxxxxxxkm_1_1/pasted__Trim_Char_x_28_1/transform118
+        weight: 1
+      - path: pCube1
+        weight: 1
+      - path: polySurface15
+        weight: 1
+      - path: polySurface15/polySurface26
+        weight: 1
+      - path: polySurface15/polySurface27
+        weight: 1
+      - path: polySurface15/polySurface27/transform82
+        weight: 1
+      - path: polySurface15/polySurface28
+        weight: 1
+      - path: polySurface15/polySurface28/transform81
+        weight: 1
+      - path: polySurface15/polySurface29
+        weight: 1
+      - path: polySurface15/polySurface29/transform80
+        weight: 1
+      - path: polySurface15/polySurface30
+        weight: 1
+      - path: polySurface15/polySurface30/transform79
+        weight: 1
+      - path: polySurface15/polySurface31
+        weight: 1
+      - path: polySurface15/polySurface31/transform78
+        weight: 1
+      - path: polySurface16
+        weight: 1
+      - path: polySurface16/polySurface32
+        weight: 1
+      - path: polySurface16/polySurface32/transform88
+        weight: 1
+      - path: polySurface16/polySurface33
+        weight: 1
+      - path: polySurface16/polySurface33/transform87
+        weight: 1
+      - path: polySurface16/polySurface34
+        weight: 1
+      - path: polySurface16/polySurface34/transform86
+        weight: 1
+      - path: polySurface16/polySurface35
+        weight: 1
+      - path: polySurface16/polySurface35/transform85
+        weight: 1
+      - path: polySurface16/polySurface36
+        weight: 1
+      - path: polySurface16/polySurface36/transform84
+        weight: 1
+      - path: polySurface16/polySurface37
+        weight: 1
+      - path: polySurface16/polySurface37/transform83
+        weight: 1
+      - path: polySurface16/polySurface38
+        weight: 1
+      - path: polySurface17
+        weight: 1
+      - path: polySurface17/polySurface39
+        weight: 1
+      - path: polySurface17/polySurface40
+        weight: 1
+      - path: polySurface17/polySurface40/transform94
+        weight: 1
+      - path: polySurface17/polySurface41
+        weight: 1
+      - path: polySurface17/polySurface41/transform93
+        weight: 1
+      - path: polySurface17/polySurface42
+        weight: 1
+      - path: polySurface17/polySurface42/transform92
+        weight: 1
+      - path: polySurface17/polySurface43
+        weight: 1
+      - path: polySurface17/polySurface43/transform91
+        weight: 1
+      - path: polySurface17/polySurface44
+        weight: 1
+      - path: polySurface17/polySurface44/transform90
+        weight: 1
+      - path: polySurface17/polySurface45
+        weight: 1
+      - path: polySurface17/polySurface45/transform89
+        weight: 1
+      - path: polySurface18
+        weight: 1
+      - path: polySurface18/polySurface46
+        weight: 1
+      - path: polySurface18/polySurface46/transform101
+        weight: 1
+      - path: polySurface18/polySurface47
+        weight: 1
+      - path: polySurface18/polySurface47/transform100
+        weight: 1
+      - path: polySurface18/polySurface48
+        weight: 1
+      - path: polySurface18/polySurface48/transform99
+        weight: 1
+      - path: polySurface18/polySurface49
+        weight: 1
+      - path: polySurface18/polySurface49/transform98
+        weight: 1
+      - path: polySurface18/polySurface50
+        weight: 1
+      - path: polySurface18/polySurface50/transform97
+        weight: 1
+      - path: polySurface18/polySurface51
+        weight: 1
+      - path: polySurface18/polySurface51/transform96
+        weight: 1
+      - path: polySurface18/polySurface52
+        weight: 1
+      - path: polySurface18/polySurface52/transform95
+        weight: 1
+      - path: polySurface18/polySurface53
+        weight: 1
+      - path: polySurface19
+        weight: 1
+      - path: polySurface19/polySurface54
+        weight: 1
+      - path: polySurface19/polySurface54/transform108
+        weight: 1
+      - path: polySurface19/polySurface55
+        weight: 1
+      - path: polySurface19/polySurface55/transform107
+        weight: 1
+      - path: polySurface19/polySurface56
+        weight: 1
+      - path: polySurface19/polySurface56/transform106
+        weight: 1
+      - path: polySurface19/polySurface57
+        weight: 1
+      - path: polySurface19/polySurface57/transform105
+        weight: 1
+      - path: polySurface19/polySurface58
+        weight: 1
+      - path: polySurface19/polySurface58/transform104
+        weight: 1
+      - path: polySurface19/polySurface59
+        weight: 1
+      - path: polySurface19/polySurface59/transform102
+        weight: 1
+      - path: polySurface19/polySurface60
+        weight: 1
+      - path: polySurface19/polySurface60/transform103
+        weight: 1
+      - path: polySurface19/polySurface61
+        weight: 1
+      - path: polySurface20
+        weight: 1
+      - path: polySurface20/polySurface62
+        weight: 1
+      - path: polySurface20/polySurface63
+        weight: 1
+      - path: polySurface20/polySurface63/transform115
+        weight: 1
+      - path: polySurface20/polySurface64
+        weight: 1
+      - path: polySurface20/polySurface64/transform114
+        weight: 1
+      - path: polySurface20/polySurface65
+        weight: 1
+      - path: polySurface20/polySurface65/transform113
+        weight: 1
+      - path: polySurface20/polySurface66
+        weight: 1
+      - path: polySurface20/polySurface66/transform112
+        weight: 1
+      - path: polySurface20/polySurface67
+        weight: 1
+      - path: polySurface20/polySurface67/transform111
+        weight: 1
+      - path: polySurface20/polySurface68
+        weight: 1
+      - path: polySurface20/polySurface68/transform110
+        weight: 1
+      - path: polySurface20/polySurface69
+        weight: 1
+      - path: polySurface20/polySurface69/transform109
+        weight: 1
+      - path: polySurface21
+        weight: 1
+      - path: polySurface21/polySurface116
+        weight: 1
+      - path: polySurface21/polySurface116/transform55
+        weight: 1
+      - path: polySurface21/polySurface117
+        weight: 1
+      - path: polySurface21/polySurface117/transform54
+        weight: 1
+      - path: polySurface21/polySurface118
+        weight: 1
+      - path: polySurface21/polySurface118/transform53
+        weight: 1
+      - path: polySurface21/polySurface119
+        weight: 1
+      - path: polySurface21/polySurface119/transform52
+        weight: 1
+      - path: polySurface21/polySurface120
+        weight: 1
+      - path: polySurface21/polySurface120/transform51
+        weight: 1
+      - path: polySurface21/polySurface121
+        weight: 1
+      - path: polySurface21/polySurface121/transform50
+        weight: 1
+      - path: polySurface21/polySurface122
+        weight: 1
+      - path: polySurface21/polySurface122/transform49
+        weight: 1
+      - path: polySurface21/polySurface123
+        weight: 1
+      - path: polySurface21/polySurface123/transform47
+        weight: 1
+      - path: polySurface21/polySurface124
+        weight: 1
+      - path: polySurface21/polySurface124/transform48
+        weight: 1
+      - path: polySurface22
+        weight: 1
+      - path: polySurface22/polySurface70
+        weight: 1
+      - path: polySurface22/polySurface70/transform31
+        weight: 1
+      - path: polySurface22/polySurface71
+        weight: 1
+      - path: polySurface22/polySurface71/transform30
+        weight: 1
+      - path: polySurface22/polySurface72
+        weight: 1
+      - path: polySurface22/polySurface72/transform29
+        weight: 1
+      - path: polySurface22/polySurface73
+        weight: 1
+      - path: polySurface22/polySurface73/transform28
+        weight: 1
+      - path: polySurface22/polySurface74
+        weight: 1
+      - path: polySurface22/polySurface74/transform27
+        weight: 1
+      - path: polySurface22/polySurface75
+        weight: 1
+      - path: polySurface22/polySurface75/transform26
+        weight: 1
+      - path: polySurface22/polySurface76
+        weight: 1
+      - path: polySurface22/polySurface76/transform25
+        weight: 1
+      - path: polySurface22/polySurface77
+        weight: 1
+      - path: polySurface22/polySurface77/transform24
+        weight: 1
+      - path: polySurface22/polySurface78
+        weight: 1
+      - path: polySurface22/polySurface78/transform23
+        weight: 1
+      - path: polySurface22/polySurface79
+        weight: 1
+      - path: polySurface22/polySurface79/transform22
+        weight: 1
+      - path: polySurface22/polySurface80
+        weight: 1
+      - path: polySurface22/polySurface80/transform21
+        weight: 1
+      - path: polySurface22/polySurface81
+        weight: 1
+      - path: polySurface22/polySurface81/transform20
+        weight: 1
+      - path: polySurface22/polySurface82
+        weight: 1
+      - path: polySurface22/polySurface82/transform19
+        weight: 1
+      - path: polySurface22/polySurface83
+        weight: 1
+      - path: polySurface22/polySurface83/transform18
+        weight: 1
+      - path: polySurface22/polySurface84
+        weight: 1
+      - path: polySurface22/polySurface84/transform17
+        weight: 1
+      - path: polySurface22/polySurface85
+        weight: 1
+      - path: polySurface22/polySurface85/transform16
+        weight: 1
+      - path: polySurface23
+        weight: 1
+      - path: polySurface23/polySurface125
+        weight: 1
+      - path: polySurface23/polySurface125/transform71
+        weight: 1
+      - path: polySurface23/polySurface126
+        weight: 1
+      - path: polySurface23/polySurface126/transform70
+        weight: 1
+      - path: polySurface23/polySurface127
+        weight: 1
+      - path: polySurface23/polySurface127/transform69
+        weight: 1
+      - path: polySurface23/polySurface128
+        weight: 1
+      - path: polySurface23/polySurface128/transform68
+        weight: 1
+      - path: polySurface23/polySurface129
+        weight: 1
+      - path: polySurface23/polySurface129/transform67
+        weight: 1
+      - path: polySurface23/polySurface130
+        weight: 1
+      - path: polySurface23/polySurface130/transform66
+        weight: 1
+      - path: polySurface23/polySurface131
+        weight: 1
+      - path: polySurface23/polySurface131/transform65
+        weight: 1
+      - path: polySurface23/polySurface132
+        weight: 1
+      - path: polySurface23/polySurface132/transform64
+        weight: 1
+      - path: polySurface23/polySurface133
+        weight: 1
+      - path: polySurface23/polySurface133/transform63
+        weight: 1
+      - path: polySurface23/polySurface134
+        weight: 1
+      - path: polySurface23/polySurface134/transform62
+        weight: 1
+      - path: polySurface23/polySurface135
+        weight: 1
+      - path: polySurface23/polySurface135/transform61
+        weight: 1
+      - path: polySurface23/polySurface136
+        weight: 1
+      - path: polySurface23/polySurface136/transform60
+        weight: 1
+      - path: polySurface23/polySurface137
+        weight: 1
+      - path: polySurface23/polySurface137/transform59
+        weight: 1
+      - path: polySurface23/polySurface138
+        weight: 1
+      - path: polySurface23/polySurface138/transform58
+        weight: 1
+      - path: polySurface23/polySurface139
+        weight: 1
+      - path: polySurface23/polySurface139/transform57
+        weight: 1
+      - path: polySurface23/polySurface140
+        weight: 1
+      - path: polySurface23/polySurface140/transform56
+        weight: 1
+      - path: polySurface24
+        weight: 1
+      - path: polySurface24/polySurface86
+        weight: 1
+      - path: polySurface24/polySurface86/transform15
+        weight: 1
+      - path: polySurface24/polySurface87
+        weight: 1
+      - path: polySurface24/polySurface87/transform14
+        weight: 1
+      - path: polySurface24/polySurface88
+        weight: 1
+      - path: polySurface24/polySurface88/transform13
+        weight: 1
+      - path: polySurface24/polySurface89
+        weight: 1
+      - path: polySurface24/polySurface89/transform12
+        weight: 1
+      - path: polySurface24/polySurface90
+        weight: 1
+      - path: polySurface24/polySurface90/transform11
+        weight: 1
+      - path: polySurface24/polySurface91
+        weight: 1
+      - path: polySurface24/polySurface91/transform10
+        weight: 1
+      - path: polySurface24/polySurface92
+        weight: 1
+      - path: polySurface24/polySurface92/transform9
+        weight: 1
+      - path: polySurface24/polySurface93
+        weight: 1
+      - path: polySurface24/polySurface93/transform8
+        weight: 1
+      - path: polySurface24/polySurface94
+        weight: 1
+      - path: polySurface24/polySurface94/transform7
+        weight: 1
+      - path: polySurface24/polySurface95
+        weight: 1
+      - path: polySurface24/polySurface95/transform6
+        weight: 1
+      - path: polySurface24/polySurface96
+        weight: 1
+      - path: polySurface24/polySurface96/transform5
+        weight: 1
+      - path: polySurface24/polySurface97
+        weight: 1
+      - path: polySurface24/polySurface97/transform4
+        weight: 1
+      - path: polySurface24/polySurface98
+        weight: 1
+      - path: polySurface24/polySurface98/transform3
+        weight: 1
+      - path: polySurface24/polySurface99
+        weight: 1
+      - path: polySurface24/polySurface99/transform2
+        weight: 1
+      - path: polySurface24/polySurface100
+        weight: 1
+      - path: polySurface24/polySurface100/transform1
+        weight: 1
+      - path: polySurface25
+        weight: 1
+      - path: polySurface25/polySurface101
+        weight: 1
+      - path: polySurface25/polySurface101/transform46
+        weight: 1
+      - path: polySurface25/polySurface102
+        weight: 1
+      - path: polySurface25/polySurface102/transform45
+        weight: 1
+      - path: polySurface25/polySurface103
+        weight: 1
+      - path: polySurface25/polySurface103/transform44
+        weight: 1
+      - path: polySurface25/polySurface104
+        weight: 1
+      - path: polySurface25/polySurface104/transform43
+        weight: 1
+      - path: polySurface25/polySurface105
+        weight: 1
+      - path: polySurface25/polySurface105/transform42
+        weight: 1
+      - path: polySurface25/polySurface106
+        weight: 1
+      - path: polySurface25/polySurface106/transform41
+        weight: 1
+      - path: polySurface25/polySurface107
+        weight: 1
+      - path: polySurface25/polySurface107/transform40
+        weight: 1
+      - path: polySurface25/polySurface108
+        weight: 1
+      - path: polySurface25/polySurface108/transform39
+        weight: 1
+      - path: polySurface25/polySurface109
+        weight: 1
+      - path: polySurface25/polySurface109/transform38
+        weight: 1
+      - path: polySurface25/polySurface110
+        weight: 1
+      - path: polySurface25/polySurface110/transform37
+        weight: 1
+      - path: polySurface25/polySurface111
+        weight: 1
+      - path: polySurface25/polySurface111/transform36
+        weight: 1
+      - path: polySurface25/polySurface112
+        weight: 1
+      - path: polySurface25/polySurface112/transform35
+        weight: 1
+      - path: polySurface25/polySurface113
+        weight: 1
+      - path: polySurface25/polySurface113/transform34
+        weight: 1
+      - path: polySurface25/polySurface114
+        weight: 1
+      - path: polySurface25/polySurface114/transform33
+        weight: 1
+      - path: polySurface25/polySurface115
+        weight: 1
+      - path: polySurface25/polySurface115/transform32
+        weight: 1
+      - path: polySurface141
+        weight: 1
+      - path: polySurface142
+        weight: 1
+      - path: polySurface143
+        weight: 1
+      - path: polySurface144
+        weight: 1
+      - path: polySurface145
+        weight: 1
+      - path: polySurface147
+        weight: 1
+      - path: polySurface148
+        weight: 1
+      - path: polySurface149
+        weight: 1
+      - path: polySurface150
+        weight: 1
+      - path: polySurface151
+        weight: 1
+      - path: polySurface152
+        weight: 1
+      - path: polySurface153
+        weight: 1
+      - path: Text_Corteza_1
+        weight: 1
+      - path: Text_Corteza_1/Char_a_1
+        weight: 1
+      - path: Text_Corteza_1/Char_C_1
+        weight: 1
+      - path: Text_Corteza_1/Char_e_1
+        weight: 1
+      - path: Text_Corteza_1/Char_o_1
+        weight: 1
+      - path: Text_Corteza_1/Char_r_1
+        weight: 1
+      - path: Text_Corteza_1/Char_t_1
+        weight: 1
+      - path: Text_Corteza_1/Char_z_1
+        weight: 1
+      - path: Text_LaxTierra_1
+        weight: 1
+      - path: Text_LaxTierra_1/Char_a_4
+        weight: 1
+      - path: Text_LaxTierra_1/Char_a_5
+        weight: 1
+      - path: Text_LaxTierra_1/Char_e_8
+        weight: 1
+      - path: Text_LaxTierra_1/Char_i_3
+        weight: 1
+      - path: Text_LaxTierra_1/Char_L_1
+        weight: 1
+      - path: Text_LaxTierra_1/Char_r_8
+        weight: 1
+      - path: Text_LaxTierra_1/Char_r_9
+        weight: 1
+      - path: Text_LaxTierra_1/Char_T_1
+        weight: 1
+      - path: Text_MantoxInferior_1
+        weight: 1
+      - path: Text_MantoxInferior_1/Char_a_3
+        weight: 1
+      - path: Text_MantoxInferior_1/Char_e_3
+        weight: 1
+      - path: Text_MantoxInferior_1/Char_f_1
+        weight: 1
+      - path: Text_MantoxInferior_1/Char_I_1
+        weight: 1
+      - path: Text_MantoxInferior_1/Char_i_2
+        weight: 1
+      - path: Text_MantoxInferior_1/Char_M_2
+        weight: 1
+      - path: Text_MantoxInferior_1/Char_n_2
+        weight: 1
+      - path: Text_MantoxInferior_1/Char_n_3
+        weight: 1
+      - path: Text_MantoxInferior_1/Char_o_4
+        weight: 1
+      - path: Text_MantoxInferior_1/Char_o_5
+        weight: 1
+      - path: Text_MantoxInferior_1/Char_r_4
+        weight: 1
+      - path: Text_MantoxInferior_1/Char_r_5
+        weight: 1
+      - path: Text_MantoxInferior_1/Char_t_3
+        weight: 1
+      - path: Text_MantoxSuperior_1
+        weight: 1
+      - path: Text_MantoxSuperior_1/Char_a_2
+        weight: 1
+      - path: Text_MantoxSuperior_1/Char_e_2
+        weight: 1
+      - path: Text_MantoxSuperior_1/Char_i_1
+        weight: 1
+      - path: Text_MantoxSuperior_1/Char_M_1
+        weight: 1
+      - path: Text_MantoxSuperior_1/Char_n_1
+        weight: 1
+      - path: Text_MantoxSuperior_1/Char_o_2
+        weight: 1
+      - path: Text_MantoxSuperior_1/Char_o_3
+        weight: 1
+      - path: Text_MantoxSuperior_1/Char_p_1
+        weight: 1
+      - path: Text_MantoxSuperior_1/Char_r_2
+        weight: 1
+      - path: Text_MantoxSuperior_1/Char_r_3
+        weight: 1
+      - path: Text_MantoxSuperior_1/Char_S_1
+        weight: 1
+      - path: Text_MantoxSuperior_1/Char_t_2
+        weight: 1
+      - path: Text_MantoxSuperior_1/Char_u_1
+        weight: 1
+      - path: Text_NucleoxExterno_1
+        weight: 1
+      - path: Text_NucleoxExterno_1/Char_c_1
+        weight: 1
+      - path: Text_NucleoxExterno_1/Char_E_1
+        weight: 1
+      - path: Text_NucleoxExterno_1/Char_e_4
+        weight: 1
+      - path: Text_NucleoxExterno_1/Char_e_5
+        weight: 1
+      - path: Text_NucleoxExterno_1/Char_l_1
+        weight: 1
+      - path: Text_NucleoxExterno_1/Char_N_1
+        weight: 1
+      - path: Text_NucleoxExterno_1/Char_n_4
+        weight: 1
+      - path: Text_NucleoxExterno_1/Char_o_6
+        weight: 1
+      - path: Text_NucleoxExterno_1/Char_o_7
+        weight: 1
+      - path: Text_NucleoxExterno_1/Char_r_6
+        weight: 1
+      - path: Text_NucleoxExterno_1/Char_t_4
+        weight: 1
+      - path: Text_NucleoxExterno_1/Char_u_2
+        weight: 1
+      - path: Text_NucleoxExterno_1/Char_x_1
+        weight: 1
+      - path: Text_NucleoxInterno_1
+        weight: 1
+      - path: Text_NucleoxInterno_1/Char_c_2
+        weight: 1
+      - path: Text_NucleoxInterno_1/Char_e_6
+        weight: 1
+      - path: Text_NucleoxInterno_1/Char_e_7
+        weight: 1
+      - path: Text_NucleoxInterno_1/Char_I_2
+        weight: 1
+      - path: Text_NucleoxInterno_1/Char_l_2
+        weight: 1
+      - path: Text_NucleoxInterno_1/Char_N_2
+        weight: 1
+      - path: Text_NucleoxInterno_1/Char_n_5
+        weight: 1
+      - path: Text_NucleoxInterno_1/Char_n_6
+        weight: 1
+      - path: Text_NucleoxInterno_1/Char_o_8
+        weight: 1
+      - path: Text_NucleoxInterno_1/Char_o_9
+        weight: 1
+      - path: Text_NucleoxInterno_1/Char_r_7
+        weight: 1
+      - path: Text_NucleoxInterno_1/Char_t_5
+        weight: 1
+      - path: Text_NucleoxInterno_1/Char_u_3
+        weight: 1
+      - path: Text_rxxxxxxxxkm_1
+        weight: 1
+      - path: Text_rxxxxxxxxkm_1/Char_k_8
+        weight: 1
+      - path: Text_rxxxxxxxxkm_1/Char_m_8
+        weight: 1
+      - path: Text_rxxxxxxxxkm_1/Char_r_10
+        weight: 1
+      - path: Text_rxxxxxxxxkm_1/Char_x_24
+        weight: 1
+      - path: Text_rxxxxxxxxkm_1/Char_x_25
+        weight: 1
+      - path: Text_rxxxxxxxxkm_1/Char_x_26
+        weight: 1
+      - path: Text_rxxxxxxxxkm_1/Char_x_27
+        weight: 1
+      - path: Text_rxxxxxxxxkm_1/Char_x_28
+        weight: 1
+      - path: Text_TIERRA_1
+        weight: 1
+      - path: Text_TIERRA_1/Char_A_1
+        weight: 1
+      - path: Text_TIERRA_1/Char_E_2
+        weight: 1
+      - path: Text_TIERRA_1/Char_I_3
+        weight: 1
+      - path: Text_TIERRA_1/Char_R_1
+        weight: 1
+      - path: Text_TIERRA_1/Char_R_2
+        weight: 1
+      - path: Text_TIERRA_1/Char_T_2
+        weight: 1
+      - path: Text_TIERRA_2
+        weight: 1
+      - path: Text_TIERRA_2/Char_A_2
+        weight: 1
+      - path: Text_TIERRA_2/Char_E_3
+        weight: 1
+      - path: Text_TIERRA_2/Char_I_4
+        weight: 1
+      - path: Text_TIERRA_2/Char_R_3
+        weight: 1
+      - path: Text_TIERRA_2/Char_R_4
+        weight: 1
+      - path: Text_TIERRA_2/Char_T_3
+        weight: 1
+      - path: Text_xxkm_1
+        weight: 1
+      - path: Text_xxkm_1/Char_k_1
+        weight: 1
+      - path: Text_xxkm_1/Char_m_1
+        weight: 1
+      - path: Text_xxkm_1/Char_x_2
+        weight: 1
+      - path: Text_xxkm_1/Char_x_3
+        weight: 1
+      - path: Text_xxxkm_1
+        weight: 1
+      - path: Text_xxxkm_1/Char_k_2
+        weight: 1
+      - path: Text_xxxkm_1/Char_m_2
+        weight: 1
+      - path: Text_xxxkm_1/Char_x_4
+        weight: 1
+      - path: Text_xxxkm_1/Char_x_5
+        weight: 1
+      - path: Text_xxxxkm_1
+        weight: 1
+      - path: Text_xxxxkm_1/Char_k_3
+        weight: 1
+      - path: Text_xxxxkm_1/Char_m_3
+        weight: 1
+      - path: Text_xxxxkm_1/Char_x_6
+        weight: 1
+      - path: Text_xxxxkm_1/Char_x_7
+        weight: 1
+      - path: Text_xxxxkm_1/Char_x_8
+        weight: 1
+      - path: Text_xxxxkm_2
+        weight: 1
+      - path: Text_xxxxkm_2/Char_k_4
+        weight: 1
+      - path: Text_xxxxkm_2/Char_m_4
+        weight: 1
+      - path: Text_xxxxkm_2/Char_x_9
+        weight: 1
+      - path: Text_xxxxkm_2/Char_x_10
+        weight: 1
+      - path: Text_xxxxkm_2/Char_x_11
+        weight: 1
+      - path: Text_xxxxxkm_1
+        weight: 1
+      - path: Text_xxxxxkm_1/Char_k_5
+        weight: 1
+      - path: Text_xxxxxkm_1/Char_m_5
+        weight: 1
+      - path: Text_xxxxxkm_1/Char_x_12
+        weight: 1
+      - path: Text_xxxxxkm_1/Char_x_13
+        weight: 1
+      - path: Text_xxxxxkm_1/Char_x_14
+        weight: 1
+      - path: Text_xxxxxkm_1/Char_x_15
+        weight: 1
+      - path: Text_xxxxxkm_2
+        weight: 1
+      - path: Text_xxxxxkm_2/Char_k_6
+        weight: 1
+      - path: Text_xxxxxkm_2/Char_m_6
+        weight: 1
+      - path: Text_xxxxxkm_2/Char_x_16
+        weight: 1
+      - path: Text_xxxxxkm_2/Char_x_17
+        weight: 1
+      - path: Text_xxxxxkm_2/Char_x_18
+        weight: 1
+      - path: Text_xxxxxkm_2/Char_x_19
+        weight: 1
+      - path: Text_xxxxxkm_3
+        weight: 1
+      - path: Text_xxxxxkm_3/Char_k_7
+        weight: 1
+      - path: Text_xxxxxkm_3/Char_m_7
+        weight: 1
+      - path: Text_xxxxxkm_3/Char_x_20
+        weight: 1
+      - path: Text_xxxxxkm_3/Char_x_21
+        weight: 1
+      - path: Text_xxxxxkm_3/Char_x_22
+        weight: 1
+      - path: Text_xxxxxkm_3/Char_x_23
+        weight: 1
+      - path: Trim_Text_LaxTierra_1_1
+        weight: 1
+      - path: Trim_Text_rxxxxxxxxkm_1_1
+        weight: 1
+      - path: Trim_Text_rxxxxxxxxkm_1_1/Trim_Char_k_8_1
+        weight: 1
+      - path: Trim_Text_rxxxxxxxxkm_1_1/Trim_Char_k_8_1/transform125
+        weight: 1
+      - path: Trim_Text_rxxxxxxxxkm_1_1/Trim_Char_m_8_1
+        weight: 1
+      - path: Trim_Text_rxxxxxxxxkm_1_1/Trim_Char_m_8_1/transform124
+        weight: 1
+      - path: Trim_Text_rxxxxxxxxkm_1_1/Trim_Char_r_10_1
+        weight: 1
+      - path: Trim_Text_rxxxxxxxxkm_1_1/Trim_Char_r_10_1/transform131
+        weight: 1
+      - path: Trim_Text_rxxxxxxxxkm_1_1/Trim_Char_x_24_1
+        weight: 1
+      - path: Trim_Text_rxxxxxxxxkm_1_1/Trim_Char_x_24_1/transform130
+        weight: 1
+      - path: Trim_Text_rxxxxxxxxkm_1_1/Trim_Char_x_25_1
+        weight: 1
+      - path: Trim_Text_rxxxxxxxxkm_1_1/Trim_Char_x_25_1/transform129
+        weight: 1
+      - path: Trim_Text_rxxxxxxxxkm_1_1/Trim_Char_x_26_1
+        weight: 1
+      - path: Trim_Text_rxxxxxxxxkm_1_1/Trim_Char_x_26_1/transform128
+        weight: 1
+      - path: Trim_Text_rxxxxxxxxkm_1_1/Trim_Char_x_27_1
+        weight: 1
+      - path: Trim_Text_rxxxxxxxxkm_1_1/Trim_Char_x_27_1/transform127
+        weight: 1
+      - path: Trim_Text_rxxxxxxxxkm_1_1/Trim_Char_x_28_1
+        weight: 1
+      - path: Trim_Text_rxxxxxxxxkm_1_1/Trim_Char_x_28_1/transform126
+        weight: 1
+      - path: Trim_Text_TIERRA_1_1
+        weight: 1
+      - path: Trim_Text_TIERRA_2_1
+        weight: 1
+      - path: Trim_Text_TIERRA_2_1/Trim_Char_A_2_1
+        weight: 1
+      - path: Trim_Text_TIERRA_2_1/Trim_Char_A_2_1/transform72
+        weight: 1
+      - path: Trim_Text_TIERRA_2_1/Trim_Char_E_3_1
+        weight: 1
+      - path: Trim_Text_TIERRA_2_1/Trim_Char_E_3_1/transform75
+        weight: 1
+      - path: Trim_Text_TIERRA_2_1/Trim_Char_I_4_1
+        weight: 1
+      - path: Trim_Text_TIERRA_2_1/Trim_Char_I_4_1/transform76
+        weight: 1
+      - path: Trim_Text_TIERRA_2_1/Trim_Char_R_3_1
+        weight: 1
+      - path: Trim_Text_TIERRA_2_1/Trim_Char_R_3_1/transform74
+        weight: 1
+      - path: Trim_Text_TIERRA_2_1/Trim_Char_R_4_1
+        weight: 1
+      - path: Trim_Text_TIERRA_2_1/Trim_Char_R_4_1/transform73
+        weight: 1
+      - path: Trim_Text_TIERRA_2_1/Trim_Char_T_3_1
+        weight: 1
+      - path: Trim_Text_TIERRA_2_1/Trim_Char_T_3_1/transform77
+        weight: 1
+      - path: Trim_Text_xxkm_1_1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 

@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Menu\MenuComportamiento.cs">
+    <Files>
+      <File FileName="Assets\Menu\MenuComportamiento.cs" Line="1" Column="1" />
+      <File FileName="Assets\Qualcomm Augmented Reality\Scripts\CargaModelosBehaviourScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Qualcomm Augmented Reality\Scripts\DataSetLoadBehaviour.cs" Line="1" Column="1" />
+      <File FileName="Assets\Qualcomm Augmented Reality\Scripts\DefaultInitializationErrorHandler.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
